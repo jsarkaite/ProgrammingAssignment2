@@ -1,5 +1,5 @@
-## 
-## 
+## https://github.com/jsarkaite/ProgrammingAssignment2/tree/jsarkaite-patch-1
+## 2nd commit SHA-1 hash identifier: baa1ce7d00c3c80c57a69ecd118e97fc4efb4ede
 ## R Programming Assignment 2: Lexical Scoping--caching the inverse of a matrix
 
 ## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse,
